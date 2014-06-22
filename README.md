@@ -1,4 +1,0 @@
-bashrc
-======
-
-bashrc config file
