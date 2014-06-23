@@ -51,9 +51,9 @@ configuration
 3. configuration flags
 
 	``` bash
-    PSCOL=${REG}${COLRED}  # default ps (prompt) color
-    USRCOL=${BLD}${COLYLW} # the color used for the user
-    HSTCOL=${BLD}${COLWHT} # the color used for the hostname
+    PSCOL=${REG}${COLRED}  # default prompt color
+    USRCOL=${BLD}${COLYLW} # user color
+    HSTCOL=${BLD}${COLWHT} # hostname color
 
 	SCMENABLED=1           # enable scm integration
     SCMDIRTY=1             # source code management dirty state
